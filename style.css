@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: white;
+}
+
+#left-column {
+    position: relative;
+    z-index: 10;
+    width: 70%;
+    height: 100%;
+    float: left;
+    background-color: aqua; 
+}
+
+/* #right-column {
+    position: fixed;
+   
+} */
+
+#right-column img {
+    width: 230px;
+    margin-left:  100px;
+    margin-top: 100px;
+    
+}
+
+img#logo {
+    position: fixed;
+    width: 150px;
+    bottom: 20px;
+    right: 10px;
+}
+/* 
+img#fig {
+    position: relative; 
+    margin-left: 1300px;
+    z-index: 11;
+    top: 40px;
+    right: 130px;
+    
+} */
+
+#left-column img {
+    width: 230px;  
+}
+
+img#onezi {
+    width: 360px;
+}
+
+img#hoodie {
+    width: 250px;
+}
+
+img#eye2 {
+    width: 330px;
+}
+
+img#eye1,
+img#eye4,
+img#eye5,
+img#eye6 {
+    width: 130px;
+}
+
+img#eye7 {
+    width: 80px;
+}
+
+img#hat {
+    width: 320px;
+}
+
+img#mouth1 {
+    width: 30px;
+}
+
+img#mouth {
+    width: 80px;
+}
+
